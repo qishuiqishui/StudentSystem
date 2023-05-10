@@ -4,10 +4,7 @@ import com.yx.model.*;
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.PreparedStatement;
 import com.yx.util.JDBCUtils;
-import jdk.nashorn.internal.scripts.JD;
-import org.apache.commons.io.input.ReaderInputStream;
 
-import javax.swing.*;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;

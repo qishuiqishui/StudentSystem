@@ -2,7 +2,6 @@ package com.yx.util;
 
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.PreparedStatement;
-import org.junit.Test;
 
 import java.io.IOException;
 import java.io.InputStream;
